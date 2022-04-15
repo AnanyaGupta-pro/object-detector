@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+
+    background-image: url(background.webp);
+    background-size: cover;
+}
+.header{
+    color: black;
+    font-size: 25px;
+    box-shadow: 10px 10px 10px gray;
+    background-color: rgb(199, 229, 242);
+
+}
+#back{
+    background-image: url(back.png);
+    background-size: cover;
+height: 40px;
+width: 40px;
+float: left;
+
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px  5px grey;
+}
